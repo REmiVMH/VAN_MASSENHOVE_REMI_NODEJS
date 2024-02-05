@@ -23,3 +23,14 @@ watchlist
     "idproprietaire": 1,
     "items": [{id:1
             etat:1}],}
+
+
+
+
+{
+    "nom":"VMH",
+      "prenom":"REMI",
+      "age":"19",
+      "adresse":"14 rue bis rou",
+      "email":"remi@test.fr"
+}
