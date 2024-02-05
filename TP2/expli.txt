@@ -1,0 +1,25 @@
+user
+{
+    "id": 1,
+    "nom": "VMH",
+    "prenom": "Remi",
+    "age": 19,
+    "adresse": "1 rue de la pile",
+    "email": "remi@ouifi.fr"}
+
+item
+{
+    "iditem": 1,
+    "titre": "Titanic",
+    "realisateur": "Simon Prout",
+    "annee": 2014,
+    "genre": "Romantique",
+    "duree": 192,
+    "note": 4.7}
+
+watchlist
+{
+    "idwatchlist": 1,
+    "idproprietaire": 1,
+    "items": [{id:1
+            etat:1}],}
