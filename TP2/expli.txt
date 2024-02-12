@@ -19,10 +19,16 @@ item
 
 watchlist
 {
-    "idwatchlist": 1,
-    "idproprietaire": 1,
-    "items": [{id:1
-            etat:1}],}
+  "idwatchlist": 1,
+  "idproprietaire": 1,
+  "items": [
+    {
+      "id": 1,
+      "etat": "A voir"
+    }
+  ]
+}
+
 
 
 
